@@ -1,0 +1,22 @@
+{
+    "journals": [],
+    "conferences": [
+        {
+            "id": "4893f7b58c62507863d1b3c87a11441f74ec653eb080e202cef57854420fbe8a",
+            "title": "CIEAD-Net: Cross-gamut Image Enhancement using Asymmetric Dual-encoder Network",
+            "authors": "Yang-Kuang Lin, Shiou-Chi Li, Jen-Wei Huang",
+            "venue": {
+                "name": "",
+                "year": "",
+                "acronym": ""
+            },
+            "abstract": "Discrepancies in device-specific color gamuts face a significant challenge for achieving consistent and perceptually accurate image enhancement. Traditional enhancement models are confined to a single gamut, while existing gamut mapping algorithms typically lack content-aware adaptation. To bridge this gap, we propose CIEAD-Net (Cross-Gamut Image Enhancement using Asymmetric Dual-Encoder Network), a novel deep learning framework that unifies image enhancement and cross-gamut color transformation. CIEAD-Net features an asymmetric dual-encoder architecture that processes lightness and color channels from the CIE Lab color space independently, allowing it to perform both content-aware enhancement and accurate color transformation for gamut compression and expansion. Extensive experiments demonstrate that our method consistently outperforms existing GMAs, demonstrating significant improvements in metrics such as LPIPS, NIQE, and PSNR.",
+            "cover": "/assets/publications/2024-ciead-net/cover.png",
+            "link": "",
+            "pdf": "",
+            "citation": ""
+        }
+    ],
+    "preprints": [],
+    "books": []
+}

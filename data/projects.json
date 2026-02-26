@@ -21,17 +21,12 @@
                 "/assets/projects/e-ink/kaleido 3.png",
                 "/assets/projects/e-ink/color difference tolerance.png"
             ],
-            "links": [
-                {
-                    "title": "GitHub",
-                    "url": "https://github.com/91d906h4/E-Ink-Project"
-                }
-            ]
+            "links": []
         },
         {
             "id": "05ae4daa37db2924608e4daf0fd0ba0151b38f26aba93c0920dbc9d8442164ca",
-            "title": "UC Berkeley LLM Agents MOOC Hackathon",
-            "participants": "Hsin Yang, Hui-Hsin Xue, Cong-Yuan Dai, Yang-Kuang Lin, Yu-Yun Mo, Li-Yuan Hung, Shang-Chun (Luke) Lu",
+            "title": "A Trustworthy Medication AI Clinician by Multi-aspect RAGs",
+            "participants": "Hsin Yang, Hui-Hsin Xue, Cong-Yuan Dai, Yang-Kuang Lin, Yu-Yun Mo, Li-Yuan Hung, Shang-Chun (Luke) Lu, Jen-Wei Huang",
             "affiliation": [
                 {
                     "name": "NCKU KID Lab",
