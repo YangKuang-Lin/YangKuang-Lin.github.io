@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[51931,["/_next/static/chunks/2a074e1d4d2924c5.js","/_next/static/chunks/cdf21b3354d8f8cd.js","/_next/static/chunks/2ecc7c2421df597f.js"],"default"]
+3:I[93802,["/_next/static/chunks/2a074e1d4d2924c5.js","/_next/static/chunks/cdf21b3354d8f8cd.js","/_next/static/chunks/2ecc7c2421df597f.js"],"default"]
+4:I[6819,["/_next/static/chunks/2a074e1d4d2924c5.js","/_next/static/chunks/cdf21b3354d8f8cd.js","/_next/static/chunks/2ecc7c2421df597f.js"],"default"]
+5:I[68874,["/_next/static/chunks/2a074e1d4d2924c5.js","/_next/static/chunks/cdf21b3354d8f8cd.js","/_next/static/chunks/2ecc7c2421df597f.js"],"default"]
+6:I[48385,["/_next/static/chunks/2a074e1d4d2924c5.js","/_next/static/chunks/cdf21b3354d8f8cd.js","/_next/static/chunks/2ecc7c2421df597f.js"],"default"]
+7:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+8:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+a:I[47257,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
+b:I[74647,["/_next/static/chunks/2a074e1d4d2924c5.js","/_next/static/chunks/cdf21b3354d8f8cd.js","/_next/static/chunks/2ecc7c2421df597f.js","/_next/static/chunks/169a7c62989f761a.js","/_next/static/chunks/0d9a91940c167609.js"],"default"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+15:I[68027,[],"default"]
+:HL["/_next/static/chunks/d43ab978ac5b76ce.css","style"]
+:HL["/_next/static/chunks/e30c22ad0a7c0640.css","style"]
+:HL["/_next/static/chunks/cc24109bbacdc366.css","style"]
+0:{"P":null,"b":"3A3dMZpwty0gOHEmNsqug","c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/d43ab978ac5b76ce.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/e30c22ad0a7c0640.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cc24109bbacdc366.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2a074e1d4d2924c5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/cdf21b3354d8f8cd.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2ecc7c2421df597f.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{"sm":2,"className":"sidebar-fixed pt-3 d-none d-lg-block","children":["$","$L6",null,{}]}],["$","$L5",null,{"sm":10,"className":"pt-3","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L9",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$La",null,{"Component":"$b","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@c","$@d"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/169a7c62989f761a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d9a91940c167609.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],{},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}],false]],"m":"$undefined","G":["$15",[]],"S":true}
+9:E{"digest":"NEXT_REDIRECT;replace;/;307;"}
+c:{}
+d:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+10:null
+14:[["$","title","0",{"children":"Y.-K.'s Website"}],["$","meta","1",{"name":"description","content":"The personal website of Yang-Kuang Lin"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","3",{}]]

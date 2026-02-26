@@ -1,0 +1,80 @@
+{
+    "biography": "I am a master’s student in Computer Science at National Cheng Kung University (NCKU), with research interests in deep learning, particularly large language models (LLMs) and computer vision.<br /><br />I am passionate about both human and programming languages. I hold a JLPT N1 certification and a TOEIC score of 815, and I am currently learning Korean. On the technical side, I am proficient in Python and JavaScript.<br /><br />I am eager to leverage my skills and research experience to address real-world challenges through artificial intelligence and contribute to impactful, human-centered technological solutions.",
+    "experience": [
+        {
+            "company": {
+                "name": "United Microelectronics Corporation (UMC)",
+                "url": "https://www.umc.com"
+            },
+            "position": "Software Engineer Intern",
+            "duration": "2025/07/08 - 2025/08/29",
+            "logo": "/assets/home/logo/umc.png",
+            "description": "During an internship at United Microelectronics Corporation (UMC), an AI-powered system was developed to support technicians in the integration and management of test sheets (検査項目表), with the objective of improving operational efficiency and reducing manual workload in semiconductor manufacturing processes. The project received 2nd place in the internship final presentation, based on evaluation criteria that emphasized system design, technical implementation, and practical applicability. The work involved close collaboration with engineers and cross-functional teams to analyze semiconductor production automation workflows and translate domain-specific requirements into deployable AI-based solutions for real-world manufacturing challenges.",
+            "images": [
+                "/assets/home/experience/Certificate of UMC Summer Internship.png",
+                "/assets/home/experience/UMC Summer Internship Group Photo - 1.png",
+                "/assets/home/experience/UMC Summer Internship Group Photo - 2.png"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": {
+                "name": "National Cheng Kung University (NCKU)",
+                "url": "https://www.ncku.edu.tw"
+            },
+            "degree": "Master of Science - M.S., Computer and Communication Engineering",
+            "duration": "2024/09/09 - 2025/08/11",
+            "logo": "/assets/home/logo/ncku.png",
+            "description": "Advisor: Prof. Jen-Wei Huang<br />Relevant Coursework: Machine Learning, Computer Vision, Modeling and Simulation, Networking"
+        },
+        {
+            "institution": {
+                "name": "National Polytechnic University (NPTU)",
+                "url": "https://www.nptu.edu.tw"
+            },
+            "degree": "Bachelor of Science - B.S., Computer Science",
+            "duration": "2020/09/01 - 2024/06/30",
+            "logo": "/assets/home/logo/nptu.png",
+            "description": "Relevant Coursework: Linear Algebra, Discrete Mathematics, Computer Organization, Operating System"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "Japan-Language Proficiency Test (JLPT) - N1",
+            "issuer": "独立行政法人国際交流基金 (The Japan Foundation)",
+            "date": "2022/01/13",
+            "images": ["/assets/home/certificate/JLPT - N1.png"]
+        },
+        {
+            "name": "Business Japanese Proficiency Test (BJT) - J2",
+            "issuer": "公益財団法人 日本漢字能力検定協会 (The Japan Kanji Aptitude Testing Foundation)",
+            "date": "2022/06/14",
+            "images": ["/assets/home/certificate/BJT - J2.png"]
+        },
+        {
+            "name": "Test of English for International Communication (TOEIC) - 815",
+            "issuer": "Educational Testing Service (ETS)",
+            "date": "2025/03/30",
+            "images": ["/assets/home/certificate/TOEIC - 815.png"]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Professional working proficiency"
+        },
+        {
+            "name": "日本語",
+            "proficiency": "Full professional proficiency"
+        },
+        {
+            "name": "漢語",
+            "proficiency": "Native or bilingual proficiency"
+        },
+        {
+            "name": "한국어",
+            "proficiency": "Elementary proficiency"
+        }
+    ]
+}

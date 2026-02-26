@@ -1,0 +1,63 @@
+{
+    "NCKU KID Lab": [
+        {
+            "id": "01151c70afd15e4f338046d2b3c403075ea998fab1b22662cbe49eb69c8e1254",
+            "title": "E Ink. & NCKU Electronic Paper Image Enhancement Project",
+            "participants": "Yang-Kuang Lin, Jen-Wei Huang, Yi-Yu Hsu, Yong-Lun Tao, Ji-Lun Ho",
+            "affiliation": [
+                {
+                    "name": "E-Ink Corporation",
+                    "url": "https://www.eink.com/"
+                },
+                {
+                    "name": "NCKU KID Lab",
+                    "url": "https://kid.ee.ncku.edu.tw/"
+                }
+            ],
+            "duration": "2024/09/09 - 2025/06/10",
+            "abstract": "This project focused on addressing gamut mapping challenges through the development of a novel machine learning–based solution aimed at improving perceptual color quality. The proposed approach achieved a 91.44% improvement in a perceptual evaluation metric compared with existing gamut mapping algorithms (GMAs), indicating substantial performance gains under the defined experimental conditions. In support of systematic development and evaluation, an electronic paper simulation environment and a standardized processing pipeline were designed and implemented to enable efficient model training, testing, and comparative analysis. Collectively, the project demonstrates the feasibility of integrating data-driven methods with controlled simulation frameworks to advance perceptual performance in gamut mapping applications.",
+            "images": [
+                "/assets/projects/e-ink/presentation.png",
+                "/assets/projects/e-ink/kaleido 3.png",
+                "/assets/projects/e-ink/color difference tolerance.png"
+            ],
+            "links": [
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/91d906h4/E-Ink-Project"
+                }
+            ]
+        },
+        {
+            "id": "05ae4daa37db2924608e4daf0fd0ba0151b38f26aba93c0920dbc9d8442164ca",
+            "title": "UC Berkeley LLM Agents MOOC Hackathon",
+            "participants": "Hsin Yang, Hui-Hsin Xue, Cong-Yuan Dai, Yang-Kuang Lin, Yu-Yun Mo, Li-Yuan Hung, Shang-Chun (Luke) Lu",
+            "affiliation": [
+                {
+                    "name": "NCKU KID Lab",
+                    "url": "https://kid.ee.ncku.edu.tw/"
+                }
+            ],
+            "duration": "2024/10/01 - 2025/03/31",
+            "abstract": "This project involved the design and implementation of GraphRAG and TabularRAG systems, integrating advanced retrieval-augmented generation (RAG) techniques to support structured and semi-structured knowledge retrieval. Extensive prompt engineering was conducted to optimize large language model (LLM) performance, with iterative refinement to improve response accuracy and reliability under defined evaluation scenarios. In addition, a fully functional demonstration website was developed to operationalize and showcase the system’s capabilities, enabling end-to-end validation of the retrieval, generation, and user interaction components.",
+            "images": [
+                "/assets/projects/llm-hackathon/cover.png",
+                "/assets/projects/llm-hackathon/flowchart.png"
+            ],
+            "links": [
+                {
+                    "title": "Homepage",
+                    "url": "https://kid.ee.ncku.edu.tw/LLMHackathon2024/"
+                },
+                {
+                    "title": "GitHub",
+                    "url": "https://github.com/YangKuang-Lin/A-trustworthy-medication-AI-clinician-by-multi-aspect-RAGs"
+                },
+                {
+                    "title": "LLM Agents MOOC Hackathon",
+                    "url": "https://rdi.berkeley.edu/llm-agents-hackathon/"
+                }
+            ]
+        }
+    ]
+}
