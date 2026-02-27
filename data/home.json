@@ -21,6 +21,16 @@
     "education": [
         {
             "institution": {
+                "name": "Hokkaido University",
+                "url": "https://www.hokudai.ac.jp"
+            },
+            "degree": "Doctor of Philosophy - Ph.D., Information Science and Technology",
+            "duration": "2026/04/01 - Present",
+            "logo": "/assets/home/logo/hokudai.png",
+            "description": "Advisor: Prof. Masanori Sugimoto"
+        },
+        {
+            "institution": {
                 "name": "National Cheng Kung University (NCKU)",
                 "url": "https://www.ncku.edu.tw"
             },
