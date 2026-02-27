@@ -1,58 +1,106 @@
-{
-    "NCKU KID Lab": [
-        {
-            "id": "01151c70afd15e4f338046d2b3c403075ea998fab1b22662cbe49eb69c8e1254",
-            "title": "E Ink. & NCKU Electronic Paper Image Enhancement Project",
-            "participants": "Yang-Kuang Lin, Jen-Wei Huang, Yi-Yu Hsu, Yong-Lun Tao, Ji-Lun Ho",
-            "affiliation": [
-                {
-                    "name": "E-Ink Corporation",
-                    "url": "https://www.eink.com/"
-                },
-                {
-                    "name": "NCKU KID Lab",
-                    "url": "https://kid.ee.ncku.edu.tw/"
-                }
-            ],
-            "duration": "2024/09/09 - 2025/06/10",
-            "abstract": "This project focused on addressing gamut mapping challenges through the development of a novel machine learning–based solution aimed at improving perceptual color quality. The proposed approach achieved a 91.44% improvement in a perceptual evaluation metric compared with existing gamut mapping algorithms (GMAs), indicating substantial performance gains under the defined experimental conditions. In support of systematic development and evaluation, an electronic paper simulation environment and a standardized processing pipeline were designed and implemented to enable efficient model training, testing, and comparative analysis. Collectively, the project demonstrates the feasibility of integrating data-driven methods with controlled simulation frameworks to advance perceptual performance in gamut mapping applications.",
-            "images": [
-                "/assets/projects/e-ink/presentation.png",
-                "/assets/projects/e-ink/kaleido 3.png",
-                "/assets/projects/e-ink/color difference tolerance.png"
-            ],
-            "links": []
-        },
-        {
-            "id": "05ae4daa37db2924608e4daf0fd0ba0151b38f26aba93c0920dbc9d8442164ca",
-            "title": "A Trustworthy Medication AI Clinician by Multi-aspect RAGs",
-            "participants": "Hsin Yang, Hui-Hsin Xue, Cong-Yuan Dai, Yang-Kuang Lin, Yu-Yun Mo, Li-Yuan Hung, Shang-Chun (Luke) Lu, Jen-Wei Huang",
-            "affiliation": [
-                {
-                    "name": "NCKU KID Lab",
-                    "url": "https://kid.ee.ncku.edu.tw/"
-                }
-            ],
-            "duration": "2024/10/01 - 2025/03/31",
-            "abstract": "This project involved the design and implementation of GraphRAG and TabularRAG systems, integrating advanced retrieval-augmented generation (RAG) techniques to support structured and semi-structured knowledge retrieval. Extensive prompt engineering was conducted to optimize large language model (LLM) performance, with iterative refinement to improve response accuracy and reliability under defined evaluation scenarios. In addition, a fully functional demonstration website was developed to operationalize and showcase the system’s capabilities, enabling end-to-end validation of the retrieval, generation, and user interaction components.",
-            "images": [
-                "/assets/projects/llm-hackathon/cover.png",
-                "/assets/projects/llm-hackathon/flowchart.png"
-            ],
-            "links": [
-                {
-                    "title": "Homepage",
-                    "url": "https://kid.ee.ncku.edu.tw/LLMHackathon2024/"
-                },
-                {
-                    "title": "GitHub",
-                    "url": "https://github.com/YangKuang-Lin/A-trustworthy-medication-AI-clinician-by-multi-aspect-RAGs"
-                },
-                {
-                    "title": "LLM Agents MOOC Hackathon",
-                    "url": "https://rdi.berkeley.edu/llm-agents-hackathon/"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "category": "2025",
+        "projects": [
+            {
+                "id": "e745cdf751137921624c5722da37dde55cbbdfcf8d0e1aa50b50570efae6c6e8",
+                "title": "Python 3D Renderer",
+                "participants": "Yang-Kuang Lin",
+                "affiliation": [],
+                "duration": "2025/02/27 - 2025/03/01",
+                "abstract": "This project presents the design and implementation of a real-time 3D renderer in Python, incorporating a custom rasterization pipeline with near-plane clipping, Z-buffering, and flat shading to achieve accurate depth and lighting representation. Shadow mapping was implemented to approximate occlusion effects, while interactive camera controls allow translation and rotation via keyboard input. The system demonstrates the mapping of geometric transformations and lighting calculations to a CPU-bound rendering workflow, providing a practical platform for exploring core computer graphics concepts, including visibility determination, polygonal shading, and real-time scene interaction.",
+                "images": [
+                    "/assets/projects/3d-renderer/cube.gif",
+                    "/assets/projects/3d-renderer/game.png"
+                ],
+                "links": [
+                    {
+                        "title": "GitHub",
+                        "url": "https://github.com/91d906h4/Python-3D-Renderer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "2024",
+        "projects": [
+            {
+                "id": "01151c70afd15e4f338046d2b3c403075ea998fab1b22662cbe49eb69c8e1254",
+                "title": "E Ink. & NCKU Electronic Paper Image Enhancement Project",
+                "participants": "Yang-Kuang Lin, Jen-Wei Huang, Yi-Yu Hsu, Yong-Lun Tao, Ji-Lun Ho",
+                "affiliation": [
+                    {
+                        "name": "E-Ink Corporation",
+                        "url": "https://www.eink.com/"
+                    },
+                    {
+                        "name": "NCKU KID Lab",
+                        "url": "https://kid.ee.ncku.edu.tw/"
+                    }
+                ],
+                "duration": "2024/09/09 - 2025/06/10",
+                "abstract": "This project focused on addressing gamut mapping challenges through the development of a novel machine learning–based solution aimed at improving perceptual color quality. The proposed approach achieved a 91.44% improvement in a perceptual evaluation metric compared with existing gamut mapping algorithms (GMAs), indicating substantial performance gains under the defined experimental conditions. In support of systematic development and evaluation, an electronic paper simulation environment and a standardized processing pipeline were designed and implemented to enable efficient model training, testing, and comparative analysis. Collectively, the project demonstrates the feasibility of integrating data-driven methods with controlled simulation frameworks to advance perceptual performance in gamut mapping applications.",
+                "images": [
+                    "/assets/projects/e-ink/presentation.png",
+                    "/assets/projects/e-ink/kaleido 3.png",
+                    "/assets/projects/e-ink/color difference tolerance.png"
+                ],
+                "links": []
+            },
+            {
+                "id": "05ae4daa37db2924608e4daf0fd0ba0151b38f26aba93c0920dbc9d8442164ca",
+                "title": "A Trustworthy Medication AI Clinician by Multi-aspect RAGs",
+                "participants": "Hsin Yang, Hui-Hsin Xue, Cong-Yuan Dai, Yang-Kuang Lin, Yu-Yun Mo, Li-Yuan Hung, Shang-Chun (Luke) Lu, Jen-Wei Huang",
+                "affiliation": [
+                    {
+                        "name": "NCKU KID Lab",
+                        "url": "https://kid.ee.ncku.edu.tw/"
+                    }
+                ],
+                "duration": "2024/10/01 - 2025/03/31",
+                "abstract": "This project involved the design and implementation of GraphRAG and TabularRAG systems, integrating advanced retrieval-augmented generation (RAG) techniques to support structured and semi-structured knowledge retrieval. Extensive prompt engineering was conducted to optimize large language model (LLM) performance, with iterative refinement to improve response accuracy and reliability under defined evaluation scenarios. In addition, a fully functional demonstration website was developed to operationalize and showcase the system’s capabilities, enabling end-to-end validation of the retrieval, generation, and user interaction components.",
+                "images": [
+                    "/assets/projects/llm-hackathon/cover.png",
+                    "/assets/projects/llm-hackathon/flowchart.png"
+                ],
+                "links": [
+                    {
+                        "title": "Homepage",
+                        "url": "https://kid.ee.ncku.edu.tw/LLMHackathon2024/"
+                    },
+                    {
+                        "title": "GitHub",
+                        "url": "https://github.com/YangKuang-Lin/A-trustworthy-medication-AI-clinician-by-multi-aspect-RAGs"
+                    },
+                    {
+                        "title": "LLM Agents MOOC Hackathon",
+                        "url": "https://rdi.berkeley.edu/llm-agents-hackathon/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "2022",
+        "projects": [
+            {
+                "id": "30e6fdfd99da307f4a69c57374ab92419a417a4e79c66c5a91b40ad0874f1ca6",
+                "title": "HyLang: A Python-based Compiler and Executor for C-style Programming Language",
+                "participants": "Yang-Kuang Lin",
+                "affiliation": [],
+                "duration": "2022/11/15 - 2025/11/29",
+                "abstract": "HyLang is a custom programming language and execution framework that integrates a source-level compiler with a stack-based virtual machine. Early versions (v1–v5), implemented in Python, evolved from a minimal assembly interpreter into a statically typed, high-level language supporting structured control flow, functions, recursion, arrays, and module imports. Later versions (v6–v7) were reimplemented in C++ to improve execution performance and system-level efficiency. The compiler translates HyLang source files (.hy) into a proprietary stack-based assembly representation (HYA), which is executed by a dedicated interpreter. The instruction set exposes explicit load, store, arithmetic, branching, and function-call operations, providing a direct mapping between high-level constructs and low-level execution semantics. HyLang serves as an experimental platform for exploring compiler construction, intermediate representations, language design evolution, and virtual machine implementation trade-offs.",
+                "images": [
+                    "/assets/projects/hylang/poster.png"
+                ],
+                "links": [
+                    {
+                        "title": "GitHub",
+                        "url": "https://github.com/91d906h4/HIC"
+                    }
+                ]
+            }
+        ]
+    }
+]
