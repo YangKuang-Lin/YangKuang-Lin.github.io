@@ -44,37 +44,65 @@
             "name": "Japan-Language Proficiency Test (JLPT) - N1",
             "issuer": "独立行政法人国際交流基金 (The Japan Foundation)",
             "date": "2022/01/13",
-            "images": ["/assets/home/certificate/JLPT - N1.png"]
+            "images": [
+                "/assets/home/certificate/JLPT - N1.png"
+            ]
         },
         {
             "name": "Business Japanese Proficiency Test (BJT) - J2",
             "issuer": "公益財団法人 日本漢字能力検定協会 (The Japan Kanji Aptitude Testing Foundation)",
             "date": "2022/06/14",
-            "images": ["/assets/home/certificate/BJT - J2.png"]
+            "images": [
+                "/assets/home/certificate/BJT - J2.png"
+            ]
         },
         {
             "name": "Test of English for International Communication (TOEIC) - 815",
             "issuer": "Educational Testing Service (ETS)",
             "date": "2025/03/30",
-            "images": ["/assets/home/certificate/TOEIC - 815.png"]
+            "images": [
+                "/assets/home/certificate/TOEIC - 815.png"
+            ]
         }
     ],
-    "languages": [
+    "skills": [
         {
-            "name": "English",
-            "proficiency": "Professional working proficiency"
+            "category": "Natural Languages",
+            "items": [
+                {
+                    "name": "English",
+                    "proficiency": "Professional working proficiency"
+                },
+                {
+                    "name": "日本語",
+                    "proficiency": "Full professional proficiency"
+                },
+                {
+                    "name": "漢語",
+                    "proficiency": "Native or bilingual proficiency"
+                },
+                {
+                    "name": "한국어",
+                    "proficiency": "Elementary proficiency"
+                }
+            ]
         },
         {
-            "name": "日本語",
-            "proficiency": "Full professional proficiency"
-        },
-        {
-            "name": "漢語",
-            "proficiency": "Native or bilingual proficiency"
-        },
-        {
-            "name": "한국어",
-            "proficiency": "Elementary proficiency"
+            "category": "Programming Languages",
+            "items": [
+                {
+                    "name": "Python",
+                    "proficiency": "Advanced"
+                },
+                {
+                    "name": "JavaScript",
+                    "proficiency": "Advanced"
+                },
+                {
+                    "name": "C/C++",
+                    "proficiency": "Intermediate"
+                }
+            ]
         }
     ]
 }
