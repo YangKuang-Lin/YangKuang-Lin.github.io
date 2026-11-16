@@ -10,7 +10,7 @@
             "position": "Software Engineer Intern",
             "duration": "2025/07/08 - 2025/08/29",
             "logo": "/assets/home/logo/umc.png",
-            "description": "During an internship at United Microelectronics Corporation (UMC), an AI-powered system was developed to support technicians in the integration and management of test sheets (検査項目表), with the objective of improving operational efficiency and reducing manual workload in semiconductor manufacturing processes. The project received 2nd place in the internship final presentation, based on evaluation criteria that emphasized system design, technical implementation, and practical applicability. The work involved close collaboration with engineers and cross-functional teams to analyze semiconductor production automation workflows and translate domain-specific requirements into deployable AI-based solutions for real-world manufacturing challenges.",
+            "description": "At UMC, I developed an AI-powered system that helps technicians consolidate and manage inspection item sheets (検査項目表), reducing manual work in semiconductor manufacturing. Working closely with process engineers and cross-functional teams, I analyzed existing production automation workflows and turned domain-specific requirements into a deployable tool. The project placed 2nd at the internship final presentation, which was judged on system design, technical implementation, and practical applicability.",
             "images": [
                 "/assets/home/experience/Certificate of UMC Summer Internship.png",
                 "/assets/home/experience/UMC Summer Internship Group Photo - 1.png",
